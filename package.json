@@ -16,10 +16,7 @@
     "nodemon": "^3.0.1"
   },
   "scripts": {
-    "start":"node server.js",
-    "dev": "nodemon server.js",
-    "build": "build --output-dir public",
-    "vercel-build":"echo hello"
+    "start": "node server.js"
   },
   "name": "backend",
   "version": "1.0.0",
